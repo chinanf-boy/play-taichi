@@ -32,3 +32,7 @@ python demo-1.py
 99 行冰雪奇缘（三种性质的仿真，1. 水；2. 沙；3. 果冻）
 
 ![99ice](assets/99ice.gif)
+
+### 更多资料
+
+[展示厅](https://zoo.taichi.graphics/gallery)
