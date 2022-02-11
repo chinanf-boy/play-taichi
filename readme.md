@@ -25,6 +25,10 @@ python demo-1.py
 
 官方 readme 的第一个示例
 
+![demo-1](assets/demo-1.gif)
+
 - 99ice.py
 
 99 行冰雪奇缘（三种性质的仿真，1. 水；2. 沙；3. 果冻）
+
+![99ice](assets/99ice.gif)
